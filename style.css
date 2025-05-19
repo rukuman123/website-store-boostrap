@@ -16,7 +16,7 @@ body{
   color: white;
 }
 .banner{
-   background: url("img/shopjakect.jpg");
+   background: url("/img/shopjakect.jpg");
    background-size: cover;
    padding-top: 20%;
    padding-bottom: 20%;
